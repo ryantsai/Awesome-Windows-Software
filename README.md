@@ -27,6 +27,8 @@
 
 [WSL-Terminal](https://github.com/goreliu/wsl-terminal/releases) - 使 WSL 变得更好用 
 
+[KKTerm](https://ryantsai.github.io/KKTerm/) - Windows-first terminal workspace for SSH, SFTP, RDP/VNC, and dashboard widgets.
+
 [Dism++](http://www.chuyu.me/zh-Hans/index.html)  - 基于 CBS 的 Dism GUI 实现。
 
 [My Dock](https://pan.baidu.com/s/1i5CwGYh) -  仿 Mac OS 的 Dock
